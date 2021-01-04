@@ -1,0 +1,21 @@
+h1{
+    font-size: 70px;
+    color: gray;
+}
+li{
+    color: gray;
+}
+section{
+    padding-bottom: 100px;
+}
+.container{
+    width: 1400px;
+    margin: auto;
+}
+.half-area{
+    height: 500px;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
